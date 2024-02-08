@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#h1Ele {
+    width: 850px;
+    height: 510px;
+    position: relative;
+    bottom: 460px;
+    left: 80px;
+    color: black;
+    opacity: +1;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 400;
+}
+#para1{
+    padding-top: 5px;
+}
