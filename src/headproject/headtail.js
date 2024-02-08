@@ -101,7 +101,7 @@ const HeadTail = () => {
           return [...prevCharacters, [selectedValue]];
         }
       });
-
+      //dasdasdas
       setSelectedValue("");
     } else {
       alert("Please select value from dropdown");
